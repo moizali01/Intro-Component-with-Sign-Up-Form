@@ -44,7 +44,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [https://moizali01.github.io/Intro-Component-with-Sign-Up-Form/]
+- Solution URL: [https://github.com/moizali01/Intro-Component-with-Sign-Up-Form]
 - Live Site URL: [https://moizali01.github.io/Intro-Component-with-Sign-Up-Form/]
 
 ## My process
